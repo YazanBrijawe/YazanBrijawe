@@ -29,8 +29,8 @@ Implemented using both procedural functions and object-oriented design to demons
 ---
 
 ### 📫 How to reach me
-- Email: yazanwork543@gmail.com  
-- WhatsApp: +963932845206
+- ✉️  Email: yazanwork543@gmail.com  
+- 📞 WhatsApp: [+963 932 845 206](https://wa.me/963932845206)
 
 ---
 
