@@ -60,7 +60,7 @@ Feel free to reach out if you want to collaborate, discuss competitive programmi
 1) Classic C++ game where you play against the computer with score tracking and replay.  
 Implemented using both procedural functions and object-oriented design to demonstrate different paradigms.
 
-🔗 [Rock_paper_scissor](https://github.com/YazanBrijawi/Rock_paper_scissor)
+🔗 [Rock_paper_scissor](https://github.com/YazanBrijawe/Rock-Peper-Scissor-cpp)
 
 
 2) A simple interactive math quiz game built with C++.
