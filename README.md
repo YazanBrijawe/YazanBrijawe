@@ -66,5 +66,5 @@ Implemented using both procedural functions and object-oriented design to demons
 2) A simple interactive math quiz game built with C++.
 It generates random arithmetic questions based on your chosen settings, tracks your score, and gives instant visual and sound feedback.
 
-🔗 [MathGame]((https://github.com/YazanBrijawe/MathGame))
+🔗 [MathGame](https://github.com/YazanBrijawe/MathGame)
 
