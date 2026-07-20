@@ -18,9 +18,8 @@ Feel free to reach out if you want to collaborate, discuss competitive programmi
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+963932845206-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/963932845206)
 
 <a href="https://codeforces.com/profile/YazanBr1" target="_blank">
-  <img src="https://img.shields.io/badge/🏆_Codeforces_Profile-YazanBr1-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=2D2D2D" alt="Codeforces Profile">
+  <img src="https://img.shields.io/badge/⚡_Codeforces-YazanBr1-FFA116?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F2022" alt="Codeforces Profile">
 </a>
-
 </div>
 
 ---
