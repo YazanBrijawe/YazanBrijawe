@@ -14,7 +14,7 @@ I enjoy building clean, efficient code and currently diving deep into object-ori
 
 Feel free to reach out if you want to collaborate, discuss competitive programming, or just say hi!
 
-[![Email](https://img.shields.io/badge/Email-yazanbrijawe@gmail.com-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazanbrijawe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yazanbrijawe@gmail.com-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yazanbrijawe@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+963932845206-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/963932845206)
 
 [![Codeforces](https://img.shields.io/badge/⚡_Codeforces-YazanBr1-00CED1?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F2022)](https://codeforces.com/profile/YazanBr1)
