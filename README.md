@@ -35,6 +35,8 @@ Feel free to reach out if you want to collaborate, discuss competitive programmi
 
 ### 🏆 Achievements
 ✅ Solved 354+ Programming Problems using C++
+✅ 118 Programming Problems using C++ On Codeforces
+✅ 236 Programming Problems using C++ On Programing advices 
 🔥 Strong foundation in Problem Solving & Logic
 💡 Continuous daily practice & improvement mindset
 
