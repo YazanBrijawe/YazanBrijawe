@@ -16,6 +16,7 @@ Feel free to reach out if you want to collaborate, discuss competitive programmi
 
 [![Email](https://img.shields.io/badge/Email-yazanbrijawe@gmail.com-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yazanbrijawe@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+963932845206-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/963932845206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yazan_Brijawe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-waled-brijawe-b98141424)
 
 [![Codeforces](https://img.shields.io/badge/⚡_Codeforces-YazanBr1-00CED1?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F2022)](https://codeforces.com/profile/YazanBr1)
 
@@ -67,4 +68,3 @@ Implemented using both procedural functions and object-oriented design to demons
 It generates random arithmetic questions based on your chosen settings, tracks your score, and gives instant visual and sound feedback.
 
 🔗 [MathGame](https://github.com/YazanBrijawe/MathGame)
-
